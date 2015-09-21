@@ -18,6 +18,19 @@
 		<url>https://github.com/ANierbeck/Master/tree/master</url>
 	</scm>
 
+	<prerequisites>
+		<maven>3.0.0</maven>
+	</prerequisites>
+
+	<licenses>
+		<license>
+			<name>ALv2</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.html</url>
+			<distribution>repo</distribution>
+			<comments>Copyrights retained by each developer.</comments>
+		</license>
+	</licenses>
+
 	<developers>
 		<developer>
 			<id>anierbeck</id>
