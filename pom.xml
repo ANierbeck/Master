@@ -7,9 +7,12 @@
 	<name>de.nierbeck - Master POM</name>
 	<description>Maven parent POM for all de.nierbeck.* projects.</description>
 	<organization>
-		<url>http://nierbeck.de</url>
 		<name>Nierbeck</name>
+		<url>http://nierbeck.de/</url>
 	</organization>
+	
+	<url>http://nierbeck.de</url>
+	
 	<scm>
 		<connection>scm:git:git://github.com/ANierbeck/Master.git</connection>
 		<developerConnection>scm:git:git@github.com:ANierbeck/Master.git</developerConnection>
