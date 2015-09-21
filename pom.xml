@@ -12,10 +12,10 @@
 		<name>Nierbeck</name>
 	</organization>
 	<scm>
-		<connection>scm:git:git://github.com/ANierbeck/de.nierbeck.master.git</connection>
-		<developerConnection>scm:git:git@github.com:ANierbeck/de.nierbeck.master.git</developerConnection>
+		<connection>scm:git:git://github.com/ANierbeck/Master.git</connection>
+		<developerConnection>scm:git:git@github.com:ANierbeck/Master.git</developerConnection>
 		<tag>HEAD</tag>
-		<url>http://github.com/ANierbeck/de.nierbeck.master/tree/master</url>
+		<url>https://github.com/ANierbeck/Master/tree/master</url>
 	</scm>
 
 	<developers>
