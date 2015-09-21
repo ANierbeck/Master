@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.nierbeck</groupId>
 	<artifactId>master</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>de.nierbeck - Master POM</name>
 	<description>Maven parent POM for all de.nierbeck.* projects.</description>
@@ -13,7 +13,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/ANierbeck/Master.git</connection>
 		<developerConnection>scm:git:git@github.com:ANierbeck/Master.git</developerConnection>
-		<tag>master-1.0.0</tag>
+		<tag>HEAD</tag>
 		<url>https://github.com/ANierbeck/Master/tree/master</url>
 	</scm>
 
